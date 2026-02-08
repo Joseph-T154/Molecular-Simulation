@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.sciencedirect.com)",
+      "WebFetch(domain:www.researchgate.net)"
+    ]
+  }
+}
